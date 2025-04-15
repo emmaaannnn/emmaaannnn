@@ -36,7 +36,7 @@ I am Emmanuel, an aspiring software engineer with a passion for solving complex 
  <img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
  </a>
  
- <a href="mailto:alamin.contact24@gmail.com">
+ <a href="mailto:emman0408@gmail.com">
  <img border="0" alt="Hrugved's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
  </a>
 </p>

@@ -210,10 +210,8 @@ I am Emmanuel, an aspiring software engineer with a passion for solving complex 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-
+<p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=emmaaannnn&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/460/300></p>
 <p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmaaannnn&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
-
-<p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=emmaaannnn&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
 
 <br>
 

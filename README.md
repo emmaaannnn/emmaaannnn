@@ -69,14 +69,6 @@ I am Emmanuel, an aspiring software engineer with a passion for solving complex 
     <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
   </a>
 
-  <a href="https://www.php.net/" target="_blank">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
-  </a>
-
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&logoColor=white">
-  </a>
-</p>
 
 
 
@@ -103,10 +95,6 @@ I am Emmanuel, an aspiring software engineer with a passion for solving complex 
   <a href="https://www.docker.com/" target="_blank"> 
    <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white">
   </a>   
-  
-  <a href="https://kubernetes.io/" target="_blank">
-    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white">
-  </a> 
   
  <a href="https://bitbucket.org/" target="_blank"> 
     <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white"/>

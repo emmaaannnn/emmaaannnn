@@ -32,9 +32,9 @@ I am Emmanuel, an aspiring software engineer with a passion for solving complex 
  <img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
  </a>
 
- <a href="https://discord.com/invite/5RmW6dZKpe6">
+ <!---<a href="https://discord.com/invite/5RmW6dZKpe6">
  <img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
- </a>
+ </a> --->
  
  <a href="mailto:emman0408@gmail.com">
  <img border="0" alt="Hrugved's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>

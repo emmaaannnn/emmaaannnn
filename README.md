@@ -69,6 +69,10 @@ I am Emmanuel, an aspiring software engineer with a passion for solving complex 
     <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
   </a>
 
+  <a href="https://dart.dev/" target="_blank">
+    <img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white">
+  </a>
+
 
 
 

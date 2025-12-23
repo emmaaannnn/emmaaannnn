@@ -29,15 +29,11 @@ I am Emmanuel, an aspiring software engineer with a passion for solving complex 
 
  <a href="https://www.linkedin.com/in/emmanuel-almonte/">
  
- <img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+ <img border="0" alt="emmaaannnn's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
  </a>
-
- <!---<a href="https://discord.com/invite/5RmW6dZKpe6">
- <img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
- </a> --->
  
  <a href="mailto:emman0408@gmail.com">
- <img border="0" alt="Hrugved's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+ <img border="0" alt="emmaaannnn's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
  </a>
 </p>
 
@@ -107,83 +103,11 @@ I am Emmanuel, an aspiring software engineer with a passion for solving complex 
  <a href="https://git-scm.com/" target="_blank"> 
     <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
   </a>
- 
- <a href="https://about.gitlab.com/" target="_blank"> 
-    <img alt="GitLab" src="https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab&logoColor=white"/>
-  </a>
   
  <a href="https://github.com/" target="_blank"> 
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
   </a>
 </p>
-
-
-
-
-### 💾 Databases
-
-<p align="left"> 
-  <a href="https://www.mysql.com/" target="_blank"> 
-   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
-  </a>   
-   <a href="https://www.mongodb.com/" target="_blank"> 
-   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
-  </a>  
-  
-   <a href="https://www.sqlite.org/" target="_blank"> 
-   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white">
-  </a> 
-
- <a href="https://firebase.google.com/" target="_blank"> 
-    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=Firebase&logoColor=white"/>
-  </a>
-  
-</p>
-
-
-
-### 🎛️ Operating Systems
-
-<p align="left"> 
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
-  </a>
-
- <a href="https://ubuntu.com/" target="_blank"> 
-    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
-  </a>
-
- <a href="https://www.microsoft.com/en-us/windows/" target="_blank"> 
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"/>
-  </a>
-</p>
-
-    
-    
-### 💻 IDEs/Editors
-
-<p align="left"> 
-  <a href="https://code.visualstudio.com/" target="_blank"> 
-   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-  </a>   
-  
-  <a href="https://developer.android.com/studio" target="_blank">
-    <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white">
-  </a>
-
- <a href="https://www.sublimetext.com/" target="_blank"> 
-    <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important"/>
-  </a>
-  
-  <a href="https://visualstudio.microsoft.com/" target="_blank"> 
-    <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"/>
-  </a>
-</p>
-
-
-
-    
-    
   
   
 ### 🥅 Others:

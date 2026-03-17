@@ -11,12 +11,6 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 I am Emmanuel, an aspiring software engineer with a passion for solving complex problems and building impactful solutions. Driven by curiosity and a love for technology, I’m constantly exploring new tools and pushing boundaries through personal projects. Collaboration is at the heart of everything I do, and I enjoy working with others to create innovative, user-focused applications. Let’s build the future together!
-
-<br>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
-
- 
  
 <br>
 
@@ -106,9 +100,6 @@ I am Emmanuel, an aspiring software engineer with a passion for solving complex 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-<p> <img width="460" height="150" src="https://streak-stats.demolab.com?user=emmaaannnn&theme=tokyonight"/460/300></p>
-<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=emmaaannnn&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/460/300></p>
-<p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmaaannnn&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
-
-<br>
-
+| Streak | Stats |
+|---|---|
+| <img height="150" src="https://streak-stats.demolab.com?user=emmaaannnn&theme=tokyonight" /> | <img height="150" src="https://github-readme-stats.vercel.app/api?username=emmaaannnn&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" /> |

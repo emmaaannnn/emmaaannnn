@@ -18,71 +18,54 @@ I am Emmanuel, an aspiring software engineer with a passion for solving complex 
 
 ### 📋 Programming languages
 
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
-
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  </a> 
-
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white">
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
-  </a>
-
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-
-  <a href="https://dart.dev/" target="_blank">
-    <img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white">
-  </a>
-
-
-
-
-### 📋 Frontend Development
-
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
-  
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
-
-  <a href="https://flutter.dev" target="_blank">
-     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white">
-  </a>
-
-
-
-### ♾️ DevOps
-
-<p align="left"> 
-  <a href="https://www.docker.com/" target="_blank"> 
-   <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white">
-  </a>   
-  
- <a href="https://bitbucket.org/" target="_blank"> 
-    <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white"/>
-  </a>
-
- <a href="https://git-scm.com/" target="_blank"> 
-    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
-  </a>
-  
- <a href="https://github.com/" target="_blank"> 
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
-  </a>
+<p align="left">
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-%2307405e.svg?logo=database&logoColor=white"/>
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-%23FA7343.svg?logo=swift&logoColor=white"/>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/C-%232370ED.svg?logo=c&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white"/>
 </p>
-  
+
+### 📋 Framework & Tools
+
+<p align="left">
+  <img alt="Adobe Experience Manager" src="https://img.shields.io/badge/AEM-Adobe%20Experience%20Manager-%23FF0000?logo=adobe&logoColor=white"/>
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=springboot&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
+  <img alt="Vapor" src="https://img.shields.io/badge/Vapor-%23000000.svg?logo=swift&logoColor=white"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?logo=nodedotjs&logoColor=white"/>
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%23009688.svg?logo=fastapi&logoColor=white"/>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=flutter&logoColor=white"/>
+  <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-%23007AFF.svg?logo=swift&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"/>
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
+  <img alt="Dynatrace" src="https://img.shields.io/badge/Dynatrace-%231490D7.svg?logo=dynatrace&logoColor=white"/>
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white"/>
+  <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=canva&logoColor=white"/>
+  <img alt="Applitools" src="https://img.shields.io/badge/Applitools-%2300A3E0.svg?logoColor=white"/>
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-%230052CC.svg?logo=jira&logoColor=white"/>
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C5263.svg?logo=jenkins&logoColor=white"/>
+  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=wordpress&logoColor=white"/>
+  <img alt="Shopify" src="https://img.shields.io/badge/Shopify-%237AB55C.svg?logo=shopify&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & DevOps / Databases
+<p align="left">
+  <img alt="AWS Lambda" src="https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
+  <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white"/>
+  <img alt="Splunk" src="https://img.shields.io/badge/Splunk-%23000000.svg?logo=splunk&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white"/>
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-%233FCF8E.svg?logo=supabase&logoColor=white"/>
+</p>
   
 ### 🥅 Others:
 
@@ -94,12 +77,11 @@ I am Emmanuel, an aspiring software engineer with a passion for solving complex 
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"></a>
 <a href="https://www.figma.com" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white"></a>
 
-
-
 <br> 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-| Streak | Stats |
-|---|---|
-| <img height="150" src="https://streak-stats.demolab.com?user=emmaaannnn&theme=tokyonight" /> | <img height="150" src="https://github-readme-stats.vercel.app/api?username=emmaaannnn&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" /> |
+<p align="center">
+  <img height="150" src="https://streak-stats.demolab.com?user=emmaaannnn&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=emmaaannnn&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
+</p>

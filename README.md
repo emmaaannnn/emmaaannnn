@@ -32,7 +32,7 @@ I am Emmanuel, an aspiring software engineer with a passion for solving complex 
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white"/>
 </p>
 
-### 📋 Framework & Tools
+### 🧰 Frameworks & Tools
 
 <p align="left">
   <img alt="Adobe Experience Manager" src="https://img.shields.io/badge/AEM-Adobe%20Experience%20Manager-%23FF0000?logo=adobe&logoColor=white"/>

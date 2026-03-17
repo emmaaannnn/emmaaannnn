@@ -20,26 +20,6 @@ I am Emmanuel, an aspiring software engineer with a passion for solving complex 
  
 <br>
 
-<p align="center"><!-----Social Accounts------>
-
-<p align="center">
- <a href="">
- <img border="0" alt="Alamin's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
- </a>
-
- <a href="https://www.linkedin.com/in/emmanuel-almonte/">
- 
- <img border="0" alt="emmaaannnn's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
- </a>
- 
- <a href="mailto:emman0408@gmail.com">
- <img border="0" alt="emmaaannnn's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
- </a>
-</p>
-
-<br>
-
-
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 ### 📋 Programming languages
@@ -126,8 +106,8 @@ I am Emmanuel, an aspiring software engineer with a passion for solving complex 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-<p align="center"><img width="460" height="150" src="https://streak-stats.demolab.com?user=emmaaannnn&theme=tokyonight"/460/300></p>
-<p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=emmaaannnn&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/460/300></p>
+<p> <img width="460" height="150" src="https://streak-stats.demolab.com?user=emmaaannnn&theme=tokyonight"/460/300></p>
+<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=emmaaannnn&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/460/300></p>
 <p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmaaannnn&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
 
 <br>
